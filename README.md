@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazafa<img align="right" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" style="width:200px; height:200px;"></img></h1>
 
 <h3 align="center">A developer from Canada</h3>
-
+<p>meow meow</p>
 <p align="left">
   
 + 🌱 I’m currently learning **React**
