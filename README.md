@@ -6,7 +6,7 @@
   
 + 🌱 I’m currently learning **React**
 
-+ 👨‍💻 My portofolio is available on [https://hazafatan.github.io](https://hazafatan.github.io)
++ 👨‍💻 My portofolio is available [**hazafatan.com**](https://hazafatan.com/)
 
 + 📫 How to reach me **hazafa.tanveer123@gmail.com**
 
