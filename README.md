@@ -4,7 +4,7 @@
 
 <p align="left">
   
-+ 🌱 I’m currently learning **React**
++ 🌱 I’m currently learning **Rust**
 
 + 👨‍💻 My portofolio is available [**hazafatan.com**](https://hazafatan.com/)
 
